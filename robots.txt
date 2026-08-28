@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nafhat.netlify.app/sitemap.xml
